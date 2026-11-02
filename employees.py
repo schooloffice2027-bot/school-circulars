@@ -72,7 +72,7 @@ EMPLOYEES = [
         "is_principal": False,
     },
     {
-        "name": "حيدر بن صالح آل الرحي",
+        "name": "حيدر بن صالح أبو الرحي",
         "role": "مشرف الثقافة المدرسية",
         "tasks": ["الثقافة المدرسية"],
         "is_principal": False,
